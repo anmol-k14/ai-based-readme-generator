@@ -57,7 +57,7 @@ readme-generator/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/readme-generator.git
+   git clone https://github.com/anmol-k14/ai-based-readme-generator.git
    cd readme-generator
    ```
 

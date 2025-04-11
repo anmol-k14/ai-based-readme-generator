@@ -58,7 +58,7 @@ readme-generator/
 
    ```bash
    git clone https://github.com/anmol-k14/ai-based-readme-generator.git
-   cd readme-generator
+   cd ai-based-readme-generator
    ```
 
 2. Install dependencies:
